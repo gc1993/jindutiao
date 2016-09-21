@@ -1,2 +1,2 @@
 # tanchishe
-(https://gc1993.github.io/tanchishe/html)
+(https://gc1993.github.io/tanchishe/index.html)
